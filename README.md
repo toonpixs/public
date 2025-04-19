@@ -1,0 +1,2 @@
+- [terms](.terms.md)
+- [privacy](.privacy.md)

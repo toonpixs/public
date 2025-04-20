@@ -6,15 +6,6 @@ This privacy policy applies to the ToonPixs app (hereby referred to as "Applicat
 
 **Information Collection and Use**
 
-The Application collects information when you download and use it. This information may include information such as
-
-- Your device's Internet Protocol address (e.g. IP address)
-- The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-- The time spent on the Application
-- The operating system you use on your mobile device
-
-The Application does not gather precise information about the location of your mobile device.
-
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
 For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information[add whatever else you collect here, e.g. users name, address, location, pictures] The information that the Service Provider request will be retained by them and used as described in this privacy policy.
@@ -26,8 +17,7 @@ Only aggregated, anonymized data is periodically transmitted to external service
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
 - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-- [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
-- [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+- [Firebase](https://firebase.google.com/support/privacy)
 - [RevenueCat](https://www.revenuecat.com/privacy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:

@@ -13,5 +13,4 @@ The app leverages AI technology, allowing users to create illustration-style ima
 
 ## Contact
 
-- [Contact form](https://forms.gle/cntByJZiTjs39fwv9)
 - toonpixs.ai@gmail.com

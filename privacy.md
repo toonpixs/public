@@ -1,4 +1,4 @@
-# PrivacyPolicy
+# Privacy Policy
 
 **Privacy Policy**
 
